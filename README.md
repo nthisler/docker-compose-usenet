@@ -1,6 +1,6 @@
 # Automated Usenet Pipeline
 
-[![Build Status](https://travis-ci.org/duhio/docker-compose-usenet.svg?branch=master)](https://travis-ci.org/duhio/docker-compose-usenet)
+[![Build Status](https://travis-ci.org/nthisler/docker-compose-usenet.svg?branch=master)](https://travis-ci.org/nthisler)
 
 An automated Usenet pipeline with reverse proxy and auto-updating of services, predominantly using the popular linuxserver Docker images. Includes:
 
@@ -15,9 +15,9 @@ An automated Usenet pipeline with reverse proxy and auto-updating of services, p
 - [FlexGet](https://hub.docker.com/r/cpoppema/docker-flexget/)
 - [Plex](https://hub.docker.com/r/linuxserver/plex/)
 - [Tautulli (aka PlexPy)](https://hub.docker.com/r/linuxserver/tautulli/)
-- [Heimdall](https://hub.docker.com/r/duhio/heimdall-https/)
+- [Heimdall](https://hub.docker.com/r/duhio/heimdall-https/) (TODO: Replace with Organizr)
 - [Watchtower](https://hub.docker.com/r/v2tec/watchtower/)
-- [DDClient](https://hub.docker.com/r/linuxserver/ddclient/)
+- [DDClient](https://hub.docker.com/r/linuxserver/ddclient/) (TODO: Remove)
 
 ## Requirements
 
