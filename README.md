@@ -1,6 +1,5 @@
 # Automated Usenet Pipeline
-
-[![Build Status](https://travis-ci.org/nthisler/docker-compose-usenet.svg?branch=master)](https://travis-ci.org/nthisler)
+[![Build Status](https://travis-ci.org/nthisler/docker-compose-usenet.svg?branch=master)](https://travis-ci.org/nthisler/docker-compose-usenet)
 
 An automated Usenet pipeline with reverse proxy and auto-updating of services, predominantly using the popular linuxserver Docker images. Includes:
 
